@@ -1,2 +1,2 @@
 # Estatistica_descritiva
-Prática de análise de dados.
+Prática de Análise de Dados.
